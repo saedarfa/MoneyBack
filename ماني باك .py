@@ -13,7 +13,6 @@ G = Fore.GREEN
 R = Fore.RED
 Y = Fore.YELLOW
 B = Fore.BLUE
-sys.exit()
 import shutil
 logo = r"""
      .... NO! ...                  ... MNO! ...
