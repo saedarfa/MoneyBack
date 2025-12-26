@@ -1,3 +1,4 @@
+
 import os , sys
 import json
 import time
@@ -12,6 +13,8 @@ G = Fore.GREEN
 R = Fore.RED
 Y = Fore.YELLOW
 B = Fore.BLUE
+print((G+"منور يا معلم😂")
+sys.exit()
 import shutil
 logo = r"""
      .... NO! ...                  ... MNO! ...
