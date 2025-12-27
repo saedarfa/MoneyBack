@@ -76,8 +76,8 @@ sped(G+saa)
 sped(R+m)
 sped(R+sk2)
 sped(R+g)
-sped(Y+alkapos)
-sped(R+g)
+#sped(Y+alkapos)
+#sped(R+g)
 
 #webbrowser.open("https://t.me/TEAM_ALKAPOS")
 
