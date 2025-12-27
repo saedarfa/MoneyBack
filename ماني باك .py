@@ -79,7 +79,7 @@ sped(R+g)
 sped(Y+alkapos)
 sped(R+g)
 
-#webbrowser.open("https://t.me/+tbUErIb_1xZkNzY0")
+webbrowser.open("https://t.me/TEAM_ALKAPOS")
 
 
 
